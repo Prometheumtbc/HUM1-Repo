@@ -9,7 +9,7 @@ In the above diagram, it is shown that tropical storms tend to form in equatoria
 
 This illustration from NASA shows the pattern of wind movement globally, indicating that the sun heats air over the equator more than it would at the poles. This difference causes hotter, less dense air to rise, forming convection currents which at the surface generate wind. These are referred to as Hadley Cells.
 
-![Map of all tropical storms between 1985 and 2005](https://serc.carleton.edu/details/images/10170.html)
+![Map of all tropical storms between 1985 and 2005](https://serc.carleton.edu/images/eslabs/hurricanes/global_tropical_cyclone_tracks.v2.jpg)
 
 The above shows data gather from between 1985 and 2005, detailing the movement of all tropical cyclones between this period. As evidenced by this map, cyclones often form between the equator and tropics, then continue moving towards their closest pole.
 
