@@ -13,7 +13,7 @@ This illustration from NASA shows the pattern of wind movement globally, indicat
 
 ![Map of all tropical storms between 1985 and 2005](https://serc.carleton.edu/images/eslabs/hurricanes/global_tropical_cyclone_tracks.v2.jpg)
 
-The above shows data gather from between 1985 and 2005, detailing the movement of all tropical cyclones between this period. As evidenced by this map, cyclones often form between the equator and tropics, then continue moving towards their closest pole.
+The above shows data gather from between 1985 and 2005, detailing the movement of all tropical cyclones between this period. As evidenced by these maps, cyclones often form between the equator and tropics, then continue moving towards their closest pole.
 
 Using the 3 images above, we can form a solid hypothesis as to how and why tropical cyclones might form. Being somewhat related to the fundamental principles of convection, taking into consideration that air would recieve more heat at the equator, than at the poles.
 
